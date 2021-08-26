@@ -1,0 +1,20 @@
+site_name: Portafolio Swift
+use_directory_urls: false
+
+plugins:
+    - search
+    - localsearch
+
+nav: 
+  - Introduccion: index.md
+  - Unidad 1:
+    - Ejercicios del libro: contenido/unidad_1/libro.md
+    - Clases: contenido/unidad_1/clases.md
+
+theme:
+  font: false
+  name: material
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  custom_dir: theme
