@@ -5,16 +5,28 @@ plugins:
     - search
     - localsearch
 
-nav: 
-  - Introduccion: index.md
-  - Unidad 1:
-    - Ejercicios del libro: contenido/unidad_1/libro.md
-    - Clases: contenido/unidad_1/clases.md
-
 theme:
+  icon:
+    admonition:
+      note: octicons/beaker-16
   font: false
   name: material
   language: es
   logo: assets/logo.svg
   favicon: assets/favicon.svg
   custom_dir: theme
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav: 
+  - Introduccion: index.md
+  - Unidad 1:
+    - Clases: contenido/unidad_1/clases.md
+    - Ejercicios del libro: contenido/unidad_1/libro.md
+
+

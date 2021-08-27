@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Universidad Tecnológica de El Salvador
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+__Facultad de Informática y Ciencias Aplicadas__
 
-## Commands
+__Materia:__ Normas y Estándares Internacionales<br>
+__Docente:__ Ing. Noe Rodriguez Merlos<br>
+__Seccion:__ 01<br>
+__Ciclo__: 02-2021
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+__Alumno:__ Miguel Oswaldo Escobar Cuellar<br>
+__Carnet:__ 25-0729-2017
 
-## Project layout
+_Sobre este sitio:_ Este sitio es un portafolio digital, que contendrá los diferentes ejercicios y ejemplos desarrollados
+en el trascurso del ciclo 02-2021, al final de cada ejercicio se mostrará información sobre el tipo de proyecto,
+la herramienta con la que se elaboró dicho proyecto y un enlace de descarga.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+__Nota:__ Los proyectos se amacenaran en la siguiente ruata: `site\src\unidaX`
+
