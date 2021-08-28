@@ -14,5 +14,4 @@ _Sobre este sitio:_ Este sitio es un portafolio digital, que contendrá los dife
 en el trascurso del ciclo 02-2021, al final de cada ejercicio se mostrará información sobre el tipo de proyecto,
 la herramienta con la que se elaboró dicho proyecto y un enlace de descarga.
 
-__Nota:__ Los proyectos se amacenaran en la siguiente ruata: `site\src\unidaX`
-
+__Nota:__ Mi equipo tiene un procesador AMD y e tenido problemas con la máquina virtual, por dicho motivo no he podido desarrollar los ejercicios del capítulo cuatro, este inconveniente no sucederla de nuevo, gracias por su comprensión.
