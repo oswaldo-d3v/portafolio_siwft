@@ -5,7 +5,17 @@ plugins:
     - search
     - localsearch
 
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
 theme:
+  features:
+    - content.tabs.link
   icon:
     admonition:
       note: octicons/beaker-16
@@ -16,17 +26,15 @@ theme:
   favicon: assets/favicon.svg
   custom_dir: theme
 
-markdown_extensions:
-  - pymdownx.highlight
-  - pymdownx.superfences
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
 nav: 
   - Introduccion: index.md
   - Unidad 1:
     - Clases: contenido/unidad_1/clases.md
     - Ejercicios del libro: contenido/unidad_1/libro.md
+  - Unidad 2:
+    - Clases: contenido/unidad_2/clases.md
+    - Ejercicios del libro: contenido/unidad_2/libro.md
+  - Unidad 3:
+    - Clases: contenido/unidad_3/clases.md
 
 
